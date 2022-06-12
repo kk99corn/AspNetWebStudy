@@ -31,6 +31,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/workspace/C\#/AspNetCoreWebStudy/AspNetCoreWebStudy/Views/Study/Cpp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZHlcQ3BwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/workspace/C\#/AspNetCoreWebStudy/AspNetCoreWebStudy/Views/Study/CSharp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZHlcQ1NoYXJwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/workspace/C\#/AspNetCoreWebStudy/AspNetCoreWebStudy/Views/Study/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZHlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/workspace/C\#/AspNetCoreWebStudy/AspNetCoreWebStudy/Views/Study/Java.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZHlcSmF2YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/workspace/C\#/AspNetCoreWebStudy/AspNetCoreWebStudy/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
