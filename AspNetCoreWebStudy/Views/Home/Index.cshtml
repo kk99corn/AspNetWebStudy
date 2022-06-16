@@ -6,27 +6,14 @@
     <h1 class="display-4">Hi~ Welcome</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
-@{
-    var name = "홍길동";
-    var num = 10;
-}
+@* 첫번째 방식
+<h1>사용자 번호: @Model.UserNo</h1>
+<h1>사용자 이름: @Model.UserName</h1>*@
 
-<h1>@name 님 환영합니다.</h1>
-@if (num == 10)
-{
-    <h2>@num 살 입니 다.</h2>
-}
+@*두번째 방식
+<h1>사용자 번호: @ViewBag.User.UserNo</h1>
+<h1>사용자 이름: @ViewBag.User.UserName</h1>*@
 
-@for (var i = 0; i < 10; i++)
-{
-    <h3>@((int)i+1) 번째 입니다.</h3>
-}
-
-@{
-    var list = new int[5] { 4, 2, 3, 4, 5 };
-}
-
-@foreach (var n in list)
-{
-    <h3>@n kk</h3>
-}
+세번째 방식
+<h1>사용자 번호: @ViewData["UserNo"]</h1>
+<h1>사용자 이름: @ViewData["UserName"]</h1>
